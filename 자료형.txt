@@ -1,0 +1,20 @@
+a = 777
+print(a)
+
+a = a+5
+print(a)
+
+a=a-3
+print(a)
+
+a=1e9
+print(a)
+
+a= 75e2
+print(a)
+
+a=75.25e1
+print(a)
+
+a=3954e-3
+print(a)
