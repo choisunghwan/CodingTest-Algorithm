@@ -9,6 +9,7 @@ def dfs(graph, v, visited):
         if not visited[i]:
             dfs(graph, i, visited)
 
+
 # 각 노드가 연결된 정보를 표현 (2차원 리스트)
 graph=[
     [],
